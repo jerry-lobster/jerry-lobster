@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jerry-lobster
-- 👀 I’m interested in GAMING..
-- 🌱 I’m currently learning GAME DEVELOPMENT....
-- 💞️ I’m looking to collaborate on ANYTHING
-- 📫 How to reach me IS BY EMAIL therealjerrylobster@gmail.com
+- Im kind of a big deal...
+- I'm Jerry Lobster and you're just a stupid fella.,
+- Im smart
+- You fart
+- I win
+- You.
+- You Lose.
 
 <!---
 jerry-lobster/jerry-lobster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
